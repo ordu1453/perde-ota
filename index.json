@@ -1,13 +1,13 @@
 [
     {
-        "fileName": "1234-0001-00020100-Perde-DualShade.zigbee",
-        "fileVersion": 131328,
-        "fileSize": 507889,
-        "url": "https://raw.githubusercontent.com/ordu1453/perde-ota/main/images/1234-0001-00020100-Perde-DualShade.zigbee",
+        "fileName": "1234-0001-00020200-Perde-DualShade.zigbee",
+        "fileVersion": 131584,
+        "fileSize": 509236,
+        "url": "https://raw.githubusercontent.com/ordu1453/perde-ota/main/images/1234-0001-00020200-Perde-DualShade.zigbee",
         "imageType": 1,
         "manufacturerCode": 4660,
         "modelId": "DualShade",
         "otaHeaderString": "Perde-DualShade",
-        "sha512": "cc2fcb9ca2bdb2155b029cf7ec6793cbf00a8ae78804bea45bdbe919fc6efbc124d08165d1ac6dbdcf3d42cbdafb30511a22840ad93b2847256bb61636e60310"
+        "sha512": "637eea2c0d82c67a5231203a5df94ed5ab93258eb5abee5dbbe39b5075047ef3a5c59be3fe1d73c5e207deb7cfe3dc7a8194b7915311190541cfde3b0a7fcf44"
     }
 ]
